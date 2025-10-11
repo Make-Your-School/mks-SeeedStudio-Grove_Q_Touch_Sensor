@@ -31,7 +31,7 @@ Das Modul kommt beispielsweise beim Bau einer Leuchte zum Einsatz, die durch Ber
 
 Alle weiteren Hintergrundinformationen sowie ein Beispielaufbau und alle notwendigen Programmbibliotheken sind auf dem offiziellen Wiki (bisher nur in englischer Sprache) von Seeed Studio zusammengefasst. Zusätzlich findet man über alle gängigen Suchmaschinen meist nur mit der Eingabe der genauen Komponenten-Bezeichnungen entsprechende Projektbeispiele und Tutorials.
 
- 
+ 
 
 <!-- infolist -->
 ## Wichtige Links für die ersten Schritte:
