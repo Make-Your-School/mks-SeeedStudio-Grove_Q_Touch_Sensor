@@ -1,4 +1,3 @@
-
 ---
 title: "Berührungssensor"
 date: "2018-10-02T07:02:32.000Z"
